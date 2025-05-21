@@ -1,6 +1,13 @@
-# Lab4
+# Ecommerce-Angular
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.12.
+
+## Installation
+
+After cloning the project, run:
+```bash
+npm i
+```
 
 ## Development server
 
